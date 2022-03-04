@@ -1,7 +1,7 @@
 # symbols
 Kicad symbols
 
-| Library   | Description    |Symbols |
-|-----------|----------------|--------|
-| RF_ZigBee | ZigBee symbols | 1      |
+| Library                   | Description    |Symbols |
+|---------------------------|----------------|--------|
+| [RF_ZigBee](RF_ZigBee.md) | ZigBee symbols | 1      |
 
