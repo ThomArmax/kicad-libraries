@@ -1,5 +1,9 @@
 # RF_ZigBee
-ZibBee Kicad symbols
+Symbol Library - RF_ZigBee
+
+Description: ZigBee / XBee
+
+Symbols: 1
 
 | Symbol              | Description    |
 |---------------------|----------------|
